@@ -165,6 +165,14 @@ WHERE discharge_date < date_of_admission;
 
 Insight: Flags incorrect entries for data cleaning.
 
+**Key Insights Summary**
+
+Doctors: Dr. Joseph Gordon & Dr. Brian Riley are top revenue generators.
+Hospitals: Group Martinez Hospital had the highest average billing.
+Insurance: Blue Cross incurred the most claim burden.
+Seasonality: Admissions peaked in summer (June–August).
+Data Quality: The dataset maintains good data integrity, with no inconsistencies detected between admission and discharge dates.
+
 **Learnings**
 
 Strengthened proficiency in SQL joins, subqueries, and CASE statements.
